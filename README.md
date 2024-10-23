@@ -1,2 +1,2 @@
 # weather-app
-Aplicação usando Next.JS, Tailwind e Typescript
+## Aplicação usando Next.JS, Tailwind e Typescript
