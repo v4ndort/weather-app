@@ -23,16 +23,12 @@ Para rodar a aplicação localmente, siga os passos abaixo:
 
 Navegue até o diretório do projeto:
 
-bash
-Copiar código
 cd nome-do-repositorio
 Instale as dependências:
 npm install
 
 Inicie o servidor de desenvolvimento:
 
-bash
-Copiar código
 npm run dev
 Acesse a aplicação em seu navegador em http://localhost:3000.
 
